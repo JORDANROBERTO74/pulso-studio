@@ -42,9 +42,11 @@ export function Navigation({
   return (
     <header
       className={`fixed inset-x-0 top-0 z-50 transition-colors duration-300 ${
-        scrolled || isOpen
-          ? "border-b border-ink/10 bg-cream/90 backdrop-blur-md"
-          : "border-b border-transparent bg-transparent"
+        isOpen
+          ? "border-b border-ink/10 bg-cream"
+          : scrolled
+            ? "border-b border-ink/10 bg-cream/90 backdrop-blur-md"
+            : "border-b border-transparent bg-transparent"
       }`}
     >
       <div className="flex h-[92px] items-center justify-between px-[clamp(22px,5vw,72px)] max-md:h-[74px]">
