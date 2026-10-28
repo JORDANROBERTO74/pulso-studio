@@ -7,7 +7,7 @@ This ledger records the origin, brand transformation and asset provenance for **
 - **Original Working Directory:** `E:\Projects\landing\next\overtake`
 - **Rebuilt Project Name:** `pulso-studio`
 - **Final Repository:** `https://github.com/JORDANROBERTO74/pulso-studio`
-- **Live Production URL:** `https://pulsostudio.vercel.app`
+- **Live Production URL:** `https://pulsostudio-madrid.vercel.app`
 - **Mode:** Change pass over the existing layout, raised to production standard.
 
 The original template used the brand "NORTE Studio". It was discarded because `JORDANROBERTO74/norte-studio` already exists as a separate fictional studio project; reusing the name would create two indistinguishable repositories.

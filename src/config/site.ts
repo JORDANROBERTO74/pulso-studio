@@ -1,6 +1,6 @@
 export const site = {
   name: "Pulso Studio",
-  domain: "pulsostudio.vercel.app",
+  domain: "pulsostudio-madrid.vercel.app",
   get url() {
     return process.env.NEXT_PUBLIC_SITE_URL || `https://${this.domain}`;
   },
