@@ -61,11 +61,11 @@ export function Hero({ content }: Readonly<{ content: Dictionary["hero"] }>) {
 
           <span
             aria-hidden="true"
-            className="pointer-events-none absolute -bottom-[9%] -left-[10%] -right-[6%] -top-[7%] rotate-[-28deg] rounded-full border border-ink/25"
+            className="pointer-events-none absolute -bottom-[7%] left-[-7%] right-[3%] top-[3%] rotate-[-22deg] rounded-full border border-ink/90"
           />
           <span
             aria-hidden="true"
-            className="pointer-events-none absolute -bottom-[12%] -left-[6%] -right-[12%] -top-[10%] rotate-[47deg] rounded-full border border-ink/15"
+            className="pointer-events-none absolute -bottom-[3%] left-[3%] -right-[7%] -top-[7%] rotate-[26deg] rounded-full border border-ink/65"
           />
 
           <p className="absolute -bottom-9 right-0 m-0 hidden rotate-[-8deg] text-right lg:block">
