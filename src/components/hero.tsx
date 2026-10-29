@@ -55,7 +55,7 @@ export function Hero({ content }: Readonly<{ content: Dictionary["hero"] }>) {
               fill
               priority
               sizes="(max-width: 1024px) 92vw, 46vw"
-              className="object-cover"
+              className="object-cover object-[25%_50%]"
             />
           </div>
 
