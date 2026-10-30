@@ -55,3 +55,8 @@ None of them appears in this repository or its history.
 - `pnpm typecheck`, `pnpm lint` and `pnpm build` complete without errors or warnings.
 - `robots.txt`, multilingual `sitemap.xml`, `hreflang` alternates and a generated 1200x630 OpenGraph card are in place.
 - Motion (hero entrance, service marquee) is CSS-only and is disabled under `prefers-reduced-motion`, so the page renders complete without JavaScript.
+
+## License note
+
+This repository contains derivative work. The license covers only the original
+contributions of the copyright holder. See [LICENSE](../LICENSE).
